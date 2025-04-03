@@ -7,6 +7,8 @@
 
 npm init -y
 
+npm i dotenv
+
 ```
 
 
@@ -18,6 +20,7 @@ node app.js
 
 nodemon app.js
 
+
 ```
 
 
@@ -28,6 +31,8 @@ nodemon app.js
 ```sh
 
 npm i express
+
+
 
 ```
 
