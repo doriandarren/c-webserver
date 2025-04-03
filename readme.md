@@ -31,3 +31,19 @@ npm i express
 
 ```
 
+
+
+
+
+## Handlebars
+
+Fuente: https://github.com/pillarjs/hbs
+
+```sh
+
+npm install hbs
+
+```
+
+
+
